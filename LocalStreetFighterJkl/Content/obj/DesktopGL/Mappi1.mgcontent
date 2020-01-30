@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>//fileservices.ad.jyu.fi/homes/riviolla/Desktop/HarjoitusTyö/HarjoitusTyö/Content/Mappi1.txt</SourceFile>
+  <SourceTime>2018-04-18T18:40:08+03:00</SourceTime>
+  <DestFile>//fileservices.ad.jyu.fi/homes/riviolla/Desktop/HarjoitusTyö/HarjoitusTyö/Content/bin/DesktopGL/Mappi1.xnb</DestFile>
+  <DestTime>2018-04-19T11:47:16+03:00</DestTime>
+  <Importer>TextFileImporter</Importer>
+  <ImporterTime>2018-01-11T19:43:12+02:00</ImporterTime>
+  <Processor>TextFileContentProcessor</Processor>
+  <ProcessorTime>2018-01-11T19:43:12+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
